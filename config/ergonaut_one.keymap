@@ -25,10 +25,16 @@
     combos {
         compatible = "zmk,combos";
 
-        gameswitch {
+        game_switch {
             bindings = <&tog 4>;
             key-positions = <35 33>;
             layers = <0 4>;
+        };
+
+        mouse_switch {
+            bindings = <&tog 5>;
+            key-positions = <24 26>;
+            layers = <0 5>;
         };
     };
 
