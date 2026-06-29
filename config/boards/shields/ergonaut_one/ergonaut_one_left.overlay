@@ -18,5 +18,5 @@
 };
 
 &vbatt {
-    full-ohms = <1552000>;
+    full-ohms = <1543000>;
 };
