@@ -33,6 +33,7 @@
     };
 
 	kscan0: kscan_0 {
+		wakeup-source;
 		compatible = "zmk,kscan-gpio-matrix";
 		label = "KSCAN";
 
