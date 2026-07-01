@@ -45,13 +45,13 @@
 
         game_switch {
             bindings = <&tog GAME>;
-            key-positions = <27 25>;
+            key-positions = <28 26>;
             layers = <DEF GAME>;
         };
 
         mouse_switch {
             bindings = <&tog MOUSE>;
-            key-positions = <32 34>;
+            key-positions = <31 33>;
             layers = <DEF MOUSE>;
         };
     };
